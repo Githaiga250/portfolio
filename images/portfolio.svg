@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
-  <rect width="100%" height="100%" fill="#0f172a"/>
-  <rect x="40" y="40" width="720" height="420" rx="12" fill="#111827" stroke="#263244"/>
-  <text x="60" y="100" fill="#38bdf8" font-size="32" font-family="Arial">Portfolio Website</text>
-  <text x="60" y="160" fill="#94a3b8" font-size="16" font-family="Arial">HTML • CSS • JavaScript • Responsive</text>
-  <rect x="60" y="200" width="300" height="34" rx="6" fill="#1e293b"/>
-  <rect x="60" y="246" width="680" height="18" rx="6" fill="#0b1220"/>
-</svg>
